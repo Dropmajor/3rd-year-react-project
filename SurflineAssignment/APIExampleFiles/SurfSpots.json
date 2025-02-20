@@ -1,0 +1,220 @@
+{
+  "surfing_spots": [
+    {
+      "id": "A1B2C",
+      "name": "Fistral Beach",
+      "latitude": 50.4185,
+      "longitude": -5.0862,
+      "wave_height": {
+        "min": 0.61,
+        "max": 1.83
+      },
+      "country": "United Kingdom",
+      "region": "Cornwall"
+    },
+    {
+      "id": "D3E4F",
+      "name": "Croyde Bay",
+      "latitude": 51.1261,
+      "longitude": -4.2272,
+      "wave_height": {
+        "min": 0.91,
+        "max": 2.44
+      },
+      "country": "United Kingdom",
+      "region": "Devon"
+    },
+    {
+      "id": "G5H6I",
+      "name": "Porthcawl",
+      "latitude": 51.4847,
+      "longitude": -3.7065,
+      "wave_height": {
+        "min": 0.61,
+        "max": 1.52
+      },
+      "country": "United Kingdom",
+      "region": "Bridgend"
+    },
+    {
+      "id": "J7K8L",
+      "name": "Thurso East",
+      "latitude": 58.5891,
+      "longitude": -3.5408,
+      "wave_height": {
+        "min": 1.22,
+        "max": 3.05
+      },
+      "country": "United Kingdom",
+      "region": "Highland"
+    },
+    {
+      "id": "M9N0O",
+      "name": "Perranporth",
+      "latitude": 50.3642,
+      "longitude": -5.1642,
+      "wave_height": {
+        "min": 0.61,
+        "max": 1.22
+      },
+      "country": "United Kingdom",
+      "region": "Cornwall"
+    },
+    {
+      "id": "P1Q2R",
+      "name": "Newquay",
+      "latitude": 50.4194,
+      "longitude": -5.0815,
+      "wave_height": {
+        "min": 0.61,
+        "max": 1.83
+      },
+      "country": "United Kingdom",
+      "region": "Cornwall"
+    },
+    {
+      "id": "S3T4U",
+      "name": "Scarborough",
+      "latitude": 54.2833,
+      "longitude": -0.4000,
+      "wave_height": {
+        "min": 0.30,
+        "max": 1.22
+      },
+      "country": "United Kingdom",
+      "region": "North Yorkshire"
+    },
+    {
+      "id": "V5W6X",
+      "name": "Swansea Bay",
+      "latitude": 51.6137,
+      "longitude": -3.9702,
+      "wave_height": {
+        "min": 0.30,
+        "max": 0.91
+      },
+      "country": "United Kingdom",
+      "region": "Swansea"
+    },
+    {
+      "id": "Y7Z8A",
+      "name": "Bude",
+      "latitude": 50.8323,
+      "longitude": -4.5431,
+      "wave_height": {
+        "min": 0.61,
+        "max": 1.52
+      },
+      "country": "United Kingdom",
+      "region": "Cornwall"
+    },
+    {
+      "id": "B1C2D",
+      "name": "Gwithian",
+      "latitude": 50.2045,
+      "longitude": -5.4142,
+      "wave_height": {
+        "min": 0.61,
+        "max": 1.22
+      },
+      "country": "United Kingdom",
+      "region": "Cornwall"
+    },
+    {
+      "id": "E3F4G",
+      "name": "Bournemouth",
+      "latitude": 50.7200,
+      "longitude": -1.8700,
+      "wave_height": {
+        "min": 0.30,
+        "max": 0.91
+      },
+      "country": "United Kingdom",
+      "region": "Dorset"
+    },
+    {
+      "id": "N9O0P",
+      "name": "Porthcawl",
+      "latitude": 51.4847,
+      "longitude": -3.7065,
+      "wave_height": {
+        "min": 0.61,
+        "max": 1.52
+      },
+      "country": "United Kingdom",
+      "region": "Bridgend"
+    },
+    {
+      "id": "Q1R2S",
+      "name": "Saltburn",
+      "latitude": 54.5920,
+      "longitude": -0.9850,
+      "wave_height": {
+        "min": 0.61,
+        "max": 1.83
+      },
+      "country": "United Kingdom",
+      "region": "North Yorkshire"
+    },
+    {
+      "id": "T3U4V",
+      "name": "Whitstable",
+      "latitude": 51.3623,
+      "longitude": 0.8957,
+      "wave_height": {
+        "min": 0.30,
+        "max": 0.91
+      },
+      "country": "United Kingdom",
+      "region": "Kent"
+    },
+    {
+      "id": "W5X6Y",
+      "name": "Culzean",
+      "latitude": 55.3460,
+      "longitude": -4.9562,
+      "wave_height": {
+        "min": 0.61,
+        "max": 1.52
+      },
+      "country": "United Kingdom",
+      "region": "South Ayrshire"
+    },
+    {
+      "id": "Z7A8B",
+      "name": "Dunbar",
+      "latitude": 56.0033,
+      "longitude": -2.4910,
+      "wave_height": {
+        "min": 0.30,
+        "max": 1.22
+      },
+      "country": "United Kingdom",
+      "region": "East Lothian"
+    },
+    {
+      "id": "C1D2E",
+      "name": "Portrush",
+      "latitude": 55.2002,
+      "longitude": -6.6519,
+      "wave_height": {
+        "min": 0.91,
+        "max": 2.44
+      },
+      "country": "United Kingdom",
+      "region": "County Antrim"
+    },
+    {
+      "id": "F3G4H",
+      "name": "Celtic Sea",
+      "latitude": 51.5615,
+      "longitude": -4.9602,
+      "wave_height": {
+        "min": 0.61,
+        "max": 1.83
+      },
+      "country": "United Kingdom",
+      "region": "South Wales"
+    }
+  ]
+}
